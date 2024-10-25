@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <AuthorId>1</AuthorId>
+    <Name>Author A</Name>
+    <Country>Country A</Country>
+  </Author>
+  <Author>
+    <AuthorId>2</AuthorId>
+    <Name>Author B</Name>
+    <Country>Country B</Country>
+  </Author>
+  <Author>
+    <AuthorId>3</AuthorId>
+    <Name>Author C</Name>
+    <Country>Country C</Country>
+  </Author>
+  <Author>
+    <AuthorId>4</AuthorId>
+    <Name>Author D</Name>
+    <Country>Country D</Country>
+  </Author>
+  <Author>
+    <AuthorId>5</AuthorId>
+    <Name>Author E</Name>
+    <Country>Country E</Country>
+  </Author>
+</ArrayOfAuthor>

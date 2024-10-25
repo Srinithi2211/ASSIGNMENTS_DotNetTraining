@@ -1,0 +1,14 @@
+E:\.NET FSD\Day3_Day4_Tasks\bin\Debug\net8.0\Day3_Day4_Tasks.exe
+E:\.NET FSD\Day3_Day4_Tasks\bin\Debug\net8.0\Day3_Day4_Tasks.deps.json
+E:\.NET FSD\Day3_Day4_Tasks\bin\Debug\net8.0\Day3_Day4_Tasks.runtimeconfig.json
+E:\.NET FSD\Day3_Day4_Tasks\bin\Debug\net8.0\Day3_Day4_Tasks.dll
+E:\.NET FSD\Day3_Day4_Tasks\bin\Debug\net8.0\Day3_Day4_Tasks.pdb
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.AssemblyInfoInputs.cache
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.AssemblyInfo.cs
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.csproj.CoreCompileInputs.cache
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.dll
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\refint\Day3_Day4_Tasks.dll
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.pdb
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\Day3_Day4_Tasks.genruntimeconfig.cache
+E:\.NET FSD\Day3_Day4_Tasks\obj\Debug\net8.0\ref\Day3_Day4_Tasks.dll
