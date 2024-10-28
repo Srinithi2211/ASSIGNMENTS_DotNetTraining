@@ -1,0 +1,14 @@
+E:\.NET FSD\DIPTask\bin\Debug\net8.0\DIPTask.exe
+E:\.NET FSD\DIPTask\bin\Debug\net8.0\DIPTask.deps.json
+E:\.NET FSD\DIPTask\bin\Debug\net8.0\DIPTask.runtimeconfig.json
+E:\.NET FSD\DIPTask\bin\Debug\net8.0\DIPTask.dll
+E:\.NET FSD\DIPTask\bin\Debug\net8.0\DIPTask.pdb
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.AssemblyInfoInputs.cache
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.AssemblyInfo.cs
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.csproj.CoreCompileInputs.cache
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.dll
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\refint\DIPTask.dll
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.pdb
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\DIPTask.genruntimeconfig.cache
+E:\.NET FSD\DIPTask\obj\Debug\net8.0\ref\DIPTask.dll
