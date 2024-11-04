@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hospital Management</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
+                <li><a asp-controller="Hospitals" asp-action="Index">Hospitals</a></li>
+                <li><a asp-controller="Doctors" asp-action="Index">Doctors</a></li>
+                <li><a asp-controller="Patients" asp-action="Index">Patients</a></li>
+                <li><a asp-controller="Appointments" asp-action="Index">Appointments</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <footer>
+        <p>&copy; 2024 - Hospital Management</p>
+    </footer>
+</body>
+</html>
